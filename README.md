@@ -1,5 +1,4 @@
-### Jarkom_Modul5_Praktikum_C10
-
+### Jarkom_Modul5_Lapres_B06
 #
 
 # SoalA
